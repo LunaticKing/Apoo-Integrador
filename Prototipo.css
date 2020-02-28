@@ -77,3 +77,14 @@ ul>li{
     }
 }
 
+@media (max-width: 1329px){
+    .logo{
+        width: 220px;
+    }
+}
+
+@media (max-width: 1429px){
+    .lista{
+        font-size: 18px;
+    }
+}
